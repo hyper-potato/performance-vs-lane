@@ -1,4 +1,5 @@
 # performance-vs-lane  
+Concise but Not so concise analysis[on my blog](https://hyper-potato.github.io/2020/02/29/Swimmer-Performance-vs-Lane-Placement/)
 **Lane Placement and Performance: A Causal Exploration**  
 <br/>
 The question that we are hoping to answer in our final project of Causal Inference is whether there is a causal effect of lane placement upon the performance of competitive swimmers. More specifically, we want to assess whether being in a lane closer to the center of the pool gives a competitive edge. There is great debate in the swimming world if outside lanes are put at a disadvantage, but prior studies have produced conflicting results.
